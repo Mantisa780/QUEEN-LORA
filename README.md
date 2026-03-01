@@ -7,7 +7,7 @@
 <!-- ✨ HOLOGRAPHIC ANIMATED HEADER -->
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
-<a><img src='https://n.uguu.se/cTxpzTwx.jpg'/></a>
+<a><img src='https://files.catbox.moe/frszdp.jpg'/></a>
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
