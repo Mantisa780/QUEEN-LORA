@@ -1,6 +1,6 @@
 <p align="center">
   <h1 align="center" style="font-family: 'Orbitron', sans-serif; text-shadow: 0 0 15px ##ff00ff, 0 0 30px ##00ffff;">
-    💗 VENOM ULTRA XMD 💗
+    🌀VENOM ULTRA XMD🌀
   </h1>
 </p>
 
