@@ -21,15 +21,15 @@
 
 `FORK 🍴 & STAR ⭐ TO SUPPORT DIANA TECH`
 
-<a href="https://github.com/YOUR-USERNAME/YOUR-REPO/fork">
-  <img src="https://img.shields.io/badge/FORK-DIANA_XMD-FF00FF?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="https://github.com/QUEEN-DIANA/VENOM-XMD/fork">
+  <img src="https://img.shields.io/badge/FORK-VENOM_XMD-FF00FF?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </div>
 
 ---
 
-# 🌐 DEPLOYMENT SITES
+## 🌐 DEPLOYMENT SITES
 Deploy your VENOM XMD with one click on your favorite hosting platforms.
 
 <div align="center">
@@ -54,7 +54,7 @@ Deploy your VENOM XMD with one click on your favorite hosting platforms.
 
 ## 👑 BOT OWNER
 
-<a href="https://wa.me/18490000000?text=HELLO+DIANA+TECH+I+NEED+HELP" target="_blank">
+<a href="https://wa.me/18492823944?text=HELLO+DIANA+TECH+I+NEED+HELP" target="_blank">
 <img src="https://img.shields.io/badge/Contact-Owner-FF1493?style=for-the-badge&logo=whatsapp&logoColor=white"/>
 </a>
 
@@ -62,7 +62,7 @@ Deploy your VENOM XMD with one click on your favorite hosting platforms.
 
 ## 💬 JOIN WHATSAPP GROUP
 
-<a href="https://chat.whatsapp.com/YOUR-GROUP-LINK">
+<a href="https://chat.whatsapp.com/G8bwYkoA8mwEHOlGasZM82">
 <img src="https://img.shields.io/badge/Join-WhatsApp_Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
 </a>
 
@@ -70,7 +70,7 @@ Deploy your VENOM XMD with one click on your favorite hosting platforms.
 
 ## 📢 JOIN WHATSAPP CHANNEL
 
-<a href="https://whatsapp.com/channel/YOUR-CHANNEL-LINK">
+<a href="https://whatsapp.com/channel/0029VajohKp5a2498c8Dbl2Y">
 <img src="https://img.shields.io/badge/Join-Channel-FF69B4?style=for-the-badge&logo=whatsapp&logoColor=white"/>
 </a>
 
