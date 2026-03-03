@@ -8,7 +8,7 @@
 <p align="center">
   <img src="https://i.imgur.com/LyHic3i.gif"/>
   <br>
-  <img src="https://i.ibb.co/HTJ1zmLY/399b2646926e.jpg"/>
+  <img src="https://files.catbox.moe/rvflt2.jpg"/>
   <br>
   <img src="https://i.imgur.com/LyHic3i.gif"/>
 </p>
@@ -29,7 +29,8 @@
 
 ---
 
-# 🔥 PREMIUM PANELS SECTION 🔥
+# 🌐 DEPLOYMENT SITES
+Deploy your VENOM XMD with one click on your favorite hosting platforms.
 
 <div align="center">
 
@@ -45,6 +46,32 @@
 
 <a href="https://your-hosting-panel-link.com">
 <img src="https://img.shields.io/badge/Panel-HOSTING-00FFFF?style=for-the-badge&logo=cpanel&logoColor=black"/>
+</a>
+
+---
+
+# 📞 CONTACT & COMMUNITY
+
+## 👑 BOT OWNER
+
+<a href="https://wa.me/18490000000?text=HELLO+DIANA+TECH+I+NEED+HELP" target="_blank">
+<img src="https://img.shields.io/badge/Contact-Owner-FF1493?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+</a>
+
+---
+
+## 💬 JOIN WHATSAPP GROUP
+
+<a href="https://chat.whatsapp.com/YOUR-GROUP-LINK">
+<img src="https://img.shields.io/badge/Join-WhatsApp_Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+</a>
+
+---
+
+## 📢 JOIN WHATSAPP CHANNEL
+
+<a href="https://whatsapp.com/channel/YOUR-CHANNEL-LINK">
+<img src="https://img.shields.io/badge/Join-Channel-FF69B4?style=for-the-badge&logo=whatsapp&logoColor=white"/>
 </a>
 
 ---
