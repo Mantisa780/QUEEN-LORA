@@ -1,6 +1,6 @@
 <p align="center">
   <h1 align="center" style="font-family: 'Orbitron', sans-serif; text-shadow: 0 0 15px #ff00ff, 0 0 30px #00ffff;">
-    💗 DIANA ULTRA XMD 💗
+    💗 VENOM ULTRA XMD 💗
   </h1>
 </p>
 
@@ -8,7 +8,7 @@
 <p align="center">
   <img src="https://i.imgur.com/LyHic3i.gif"/>
   <br>
-  <img src="https://files.catbox.moe/frszdp.jpg"/>
+  <img src="https://i.ibb.co/HTJ1zmLY/399b2646926e.jpg"/>
   <br>
   <img src="https://i.imgur.com/LyHic3i.gif"/>
 </p>
@@ -46,16 +46,6 @@
 <a href="https://your-hosting-panel-link.com">
 <img src="https://img.shields.io/badge/Panel-HOSTING-00FFFF?style=for-the-badge&logo=cpanel&logoColor=black"/>
 </a>
-
----
-
-## 👤 PANEL PRODofil
-
-<a href="https://your-proprofil-panel-link.com">
-<img src="https://img.shields.io/badge/Panel-PRODOFIL-FF1493?style=for-the-badge&logo=profile&logoColor=white"/>
-</a>
-
-</div>
 
 ---
 
