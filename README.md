@@ -36,7 +36,7 @@ Deploy your VENOM XMD with one click on your favorite hosting platforms.
 
 ## 📦 PANEL KATABUMP
 
-<a href="https://your-katabump-panel-link.com">
+<a href="https://dashboard.katabump.com/auth/login#cee55e">
 <img src="https://img.shields.io/badge/Panel-KATABUMP-FF0000?style=for-the-badge&logo=server&logoColor=white"/>
 </a>
 
@@ -44,7 +44,7 @@ Deploy your VENOM XMD with one click on your favorite hosting platforms.
 
 ## 💻 PANEL HOSTING
 
-<a href="https://your-hosting-panel-link.com">
+<a href="https://bot-hosting.net/?aff=1350645873251717220">
 <img src="https://img.shields.io/badge/Panel-HOSTING-00FFFF?style=for-the-badge&logo=cpanel&logoColor=black"/>
 </a>
 
