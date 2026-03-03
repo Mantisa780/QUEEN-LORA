@@ -50,7 +50,7 @@ Deploy your VENOM XMD with one click on your favorite hosting platforms.
 
 ---
 
-# 📞 CONTACT & COMMUNITY
+## 📞 CONTACT & COMMUNITY
 
 ## 👑 BOT OWNER
 
