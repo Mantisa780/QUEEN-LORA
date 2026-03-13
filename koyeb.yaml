@@ -1,0 +1,15 @@
+name: queen-lora
+services:
+  - name: queen-lora-service
+    type: web
+    ports:
+      - 5000
+    routes:
+      - path: "/"
+    build:
+      type: docker
+      dockerfile: ./Dockerfile
+    regions:
+      - fra
+      - sin
+      
