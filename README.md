@@ -49,13 +49,13 @@ Support the project by **Forking & Starring** the repository ⭐
 
 ### PAIR CODE SERVER 1
 
-<a href="https://queen-diana.onrender.com">
+<a href="https://queen-lora-session.onrender.com">
 <img src="https://img.shields.io/badge/GET_PAIR_CODE-SERVER_1-00FFFF?style=for-the-badge&logo=whatsapp&logoColor=black"/>
 </a>
 
 ### PAIR CODE SERVER 2
 
-<a href="https://queen-diana.onrender.com/pair">
+<a href="https://queen-lora-session.onrender.com/pair">
 <img src="https://img.shields.io/badge/GET_PAIR_CODE-SERVER_2-FF69B4?style=for-the-badge&logo=whatsapp&logoColor=white"/>
 </a>
 
