@@ -4,7 +4,6 @@
   </h1>
 </p>
 
-<!-- 🌸 ANIMATED HEADER -->
 <p align="center">
   <img src="https://i.imgur.com/LyHic3i.gif"/>
   <br>
@@ -17,86 +16,85 @@
 
 <div align="center">
 
-# 🌟 QUEEN LORA WHATSAPP BOT 🌟
+# 🌸 QUEEN LORA WHATSAPP BOT 🌸
 
-Simple • Powerful • Fast WhatsApp Bot Created With ❤️ By **DIANA TECH**
+⚡ Fast • Powerful • Multi Device WhatsApp Bot  
+💗 Created With Love By **DIANA TECH**
 
 </div>
 
 ---
 
-# 🍴 FORK THIS REPOSITORY
-
-Support the project by **Forking & Starring** the repository ⭐
+# 🍴 FORK THE REPOSITORY
 
 <div align="center">
 
 <a href="https://github.com/QUEEN-DIANA/QUEEN-LORA/fork">
-<img src="https://img.shields.io/badge/FORK-QUEEN_LORA-FF1493?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/FORK_REPOSITORY-QUEEN_LORA-ff1493?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://github.com/QUEEN-DIANA/QUEEN-LORA">
-<img src="https://img.shields.io/badge/STAR-QUEEN_LORA-FFD700?style=for-the-badge&logo=github&logoColor=black"/>
+<img src="https://img.shields.io/badge/STAR_REPOSITORY-GITHUB-ffd700?style=for-the-badge&logo=github&logoColor=black"/>
 </a>
 
 </div>
 
 ---
 
-# 🔑 GET PAIR CODE
+# 🔐 GET PAIR CODE
 
 <div align="center">
 
-### PAIR CODE SERVER 1
+### 🌐 SERVER 1
 
 <a href="https://queen-lora-session.onrender.com">
-<img src="https://img.shields.io/badge/GET_PAIR_CODE-SERVER_1-00FFFF?style=for-the-badge&logo=whatsapp&logoColor=black"/>
+<img src="https://img.shields.io/badge/PAIR_CODE-SERVER_1-00ffff?style=for-the-badge&logo=whatsapp&logoColor=black"/>
 </a>
 
-### PAIR CODE SERVER 2
+### 🌸 SERVER 2
 
 <a href="https://queen-lora-session.onrender.com/pair">
-<img src="https://img.shields.io/badge/GET_PAIR_CODE-SERVER_2-FF69B4?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+<img src="https://img.shields.io/badge/PAIR_CODE-SERVER_2-ff69b4?style=for-the-badge&logo=whatsapp&logoColor=white"/>
 </a>
 
 </div>
 
 ---
 
-# 🚀 DEPLOY YOUR BOT
+# 🚀 DEPLOY QUEEN LORA
 
-Deploy **QUEEN LORA** easily on these platforms.
+Deploy the bot easily on your favorite hosting platform.
 
 <div align="center">
 
-### 🟣 HEROKU
+### 🟣 HEROKU DEPLOY
 
 <a href="https://dashboard.heroku.com/new?template=https://github.com/QUEEN-DIANA/QUEEN-LORA">
-<img src="https://img.shields.io/badge/Deploy-Heroku-7952B3?style=for-the-badge&logo=heroku&logoColor=white"/>
+<img src="https://img.shields.io/badge/DEPLOY_TO-HEROKU-7952B3?style=for-the-badge&logo=heroku&logoColor=white"/>
 </a>
 
 ---
 
-### 🔵 KOYEB
+### 🔵 KOYEB DEPLOY
 
 <a href="https://app.koyeb.com/deploy?type=git&repository=https://github.com/QUEEN-DIANA/QUEEN-LORA">
-<img src="https://img.shields.io/badge/Deploy-Koyeb-00AEEF?style=for-the-badge&logo=koyeb&logoColor=white"/>
+<img src="https://img.shields.io/badge/DEPLOY_TO-KOYEB-00AEEF?style=for-the-badge&logo=koyeb&logoColor=white"/>
 </a>
 
 ---
 
-### 🟢 RENDER
+### 🟢 RENDER DEPLOY
 
 <a href="https://render.com/deploy?repo=https://github.com/QUEEN-DIANA/QUEEN-LORA">
-<img src="https://img.shields.io/badge/Deploy-Render-46E3B7?style=for-the-badge&logo=render&logoColor=black"/>
+<img src="https://img.shields.io/badge/DEPLOY_TO-RENDER-46E3B7?style=for-the-badge&logo=render&logoColor=black"/>
 </a>
 
 ---
 
-### ⚙️ PANEL DEPLOY
+### ⚙️ PANEL / VPS DEPLOY
 
 <a href="https://github.com/QUEEN-DIANA/QUEEN-LORA">
-<img src="https://img.shields.io/badge/Deploy-PANEL-FF0000?style=for-the-badge&logo=server&logoColor=white"/>
+<img src="https://img.shields.io/badge/DEPLOY_ON-PANEL_SERVER-ff0000?style=for-the-badge&logo=server&logoColor=white"/>
 </a>
 
 </div>
@@ -107,24 +105,32 @@ Deploy **QUEEN LORA** easily on these platforms.
 
 <div align="center">
 
+### 👑 DIANA TECH
+
 <a href="https://wa.me/18492823944">
-<img src="https://img.shields.io/badge/Contact-DIANA_TECH-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+<img src="https://img.shields.io/badge/WHATSAPP_CONTACT-DIANA_TECH-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
 </a>
 
 </div>
 
 ---
 
-# 💬 COMMUNITY
+# 🌐 COMMUNITY
+
+Join our community for updates, help, and bot support.
 
 <div align="center">
+
+### 💬 WHATSAPP GROUP
 
 <a href="https://chat.whatsapp.com/G8bwYkoA8mwEHOlGasZM82">
-<img src="https://img.shields.io/badge/Join-WhatsApp_Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+<img src="https://img.shields.io/badge/JOIN_GROUP-WHATSAPP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
 </a>
 
+### 📢 OFFICIAL CHANNEL
+
 <a href="https://whatsapp.com/channel/0029VajohKp5a2498c8Dbl2Y">
-<img src="https://img.shields.io/badge/Join-WhatsApp_Channel-FF1493?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+<img src="https://img.shields.io/badge/JOIN_CHANNEL-QUEEN_LORA-ff1493?style=for-the-badge&logo=whatsapp&logoColor=white"/>
 </a>
 
 </div>
@@ -133,8 +139,12 @@ Deploy **QUEEN LORA** easily on these platforms.
 
 <div align="center">
 
-✨ **QUEEN LORA - THE MOST POWERFUL WHATSAPP BOT** ✨  
+✨ **QUEEN LORA XMD - POWERFUL WHATSAPP BOT** ✨  
 
-💗 MADE WITH LOVE BY **DIANA TECH** 💗  
+💗 Made With Love By **DIANA TECH**  
+
+⭐ Don't Forget To **Star The Repository**
 
 </div>
+
+
