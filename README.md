@@ -29,14 +29,12 @@
 
 <p align="center">
 
-  <!-- PANEL -->
   <a href="https://github.com/QUEEN-DIANA/QUEEN-LORA" target="_blank">
-    <img src="https://img.shields.io/badge/⚡_DEPLOY_PANEL-CLICK_HERE-000000?style=for-the-badge&color=FF00FF" width="240"/>
+    <img src="https://img.shields.io/badge/⚡_DEPLOY_PANEL-CLICK_HERE-000000?style=for-the-badge&color=FF00FF" width="260"/>
   </a>
 
   <br><br>
 
-  <!-- HEROKU -->
   <a href="https://heroku.com/deploy?template=https://github.com/QUEEN-DIANA/QUEEN-LORA" target="_blank">
     <img src="https://img.shields.io/badge/🚀_DEPLOY_HEROKU-CLICK_HERE-000000?style=for-the-badge&color=800080" width="260"/>
   </a>
@@ -67,18 +65,8 @@
 ## 📸 **BOT PREVIEW**
 
 <p align="center">
-
   <h3>🔥 Deploy Interface</h3>
   <img src="https://i.ibb.co/1tG7sP18/upload-1775922052029-6b9f7bf9-jpg.jpg" width="350"/>
-
-  <br><br>
-
-  <h3>⚙️ Bot Commands</h3>
-  <img src="https://i.ibb.co/sJJs2PMC/upload-1775922058819-a01795dc-jpg.jpg" width="300"/>
-
-  <h3>📊 Bot Features</h3>
-  <img src="https://i.ibb.co/WNqYg4BB/upload-1775922066898-783856cf-jpg.jpg" width="300"/>
-
 </p>
 
 ---
@@ -89,12 +77,6 @@
   <a href="https://whatsapp.com/channel/0029VajohKp5a2498c8Dbl2Y" target="_blank">
     <img src="https://img.shields.io/badge/📢_JOIN_CHANNEL-25D366?style=for-the-badge&logo=whatsapp" width="260"/>
   </a>
-
-  <br><br>
-
-  <a href="https://chat.whatsapp.com/GOM58tJ2U9r7sBxO1s1KKe" target="_blank">
-    <img src="https://img.shields.io/badge/👥_JOIN_GROUP-000000?style=for-the-badge&color=00FF00" width="260"/>
-  </a>
 </p>
 
 ---
@@ -103,7 +85,7 @@
 
 <p align="center">
   <a href="https://chat.whatsapp.com/GOM58tJ2U9r7sBxO1s1KKe" target="_blank">
-    <img src="https://img.shields.io/badge/🔄_UPDATE_BOT_GROUP-000000?style=for-the-badge&color=FFA500"/>
+    <img src="https://img.shields.io/badge/🔄_UPDATE_BOT_GROUP-000000?style=for-the-badge&color=FFA500" width="260"/>
   </a>
 </p>
 
@@ -116,12 +98,8 @@
 ## 👨‍💻 **DEVELOPER**
 
 <p align="center">
-  <img src="https://img.shields.io/badge/👑_DIANA_TECH-000000?style=for-the-badge&color=FF1493" width="260"/>
-</p>
-
-<p align="center">
   <a href="https://wa.me/18492823944?text=Hello%20Diana%20Tech,%20need%20help" target="_blank">
-    <img src="https://img.shields.io/badge/💬_NEED_HELP_CONTACT-25D366?style=for-the-badge&logo=whatsapp" width="280"/>
+    <img src="https://img.shields.io/badge/👑_DIANA_TECH-000000?style=for-the-badge&color=FF1493" width="260"/>
   </a>
 </p>
 
