@@ -64,7 +64,7 @@
 
 <p align="center">
   <h3>🔥 Deploy Interface</h3>
-  <img src="https://i.ibb.co/1tG7sP18/upload-1775922052029-6b9f7bf9-jpg.jpg" width="350"/>
+  <img src="https://i.ibb.co/49zm3mk/upload-1777222245442-3e725205-jpg.jpg" width="350"/>
 </p>
 
 ---
