@@ -25,6 +25,16 @@
 
 ---
 
+## 🔑 **GET SESSION ID**
+
+<p align="center">
+  <a href="https://queen-lora-session.onrender.com" target="_blank">
+    <img src="https://img.shields.io/badge/🔐_GET_SESSION_ID-000000?style=for-the-badge&color=FF0000" width="260"/>
+  </a>
+</p>
+
+---
+
 ## 🚀 **DEPLOY OPTIONS**
 
 <p align="center">
@@ -33,22 +43,10 @@
     <img src="https://img.shields.io/badge/⚡_DEPLOY_PANEL-CLICK_HERE-000000?style=for-the-badge&color=FF00FF" width="260"/>
   </a>
 
-  <br><br>
-
   <a href="https://heroku.com/deploy?template=https://github.com/QUEEN-DIANA/QUEEN-LORA" target="_blank">
     <img src="https://img.shields.io/badge/🚀_DEPLOY_HEROKU-CLICK_HERE-000000?style=for-the-badge&color=800080" width="260"/>
   </a>
 
-</p>
-
----
-
-## 🔑 **GET SESSION ID**
-
-<p align="center">
-  <a href="https://queen-lora-session.onrender.com" target="_blank">
-    <img src="https://img.shields.io/badge/🔐_GET_SESSION_ID-000000?style=for-the-badge&color=FF0000" width="260"/>
-  </a>
 </p>
 
 ---
