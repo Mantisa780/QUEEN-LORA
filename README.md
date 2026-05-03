@@ -39,7 +39,7 @@
 
 <p align="center">
 
-  <a href="https://github.com/QUEEN-DIANA/QUEEN-LORA" target="_blank">
+  <a href="https://rl.katabump.fr/cee55e" target="_blank">
     <img src="https://img.shields.io/badge/⚡_DEPLOY_PANEL-CLICK_HERE-000000?style=for-the-badge&color=FF00FF" width="260"/>
   </a>
 
