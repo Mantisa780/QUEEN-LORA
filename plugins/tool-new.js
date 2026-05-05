@@ -92,28 +92,7 @@ async (conn, mek, m, { args, reply }) => {
         reply("❌ System error");
     }
 });
-
-
-// ✅ Fake Verified Contact
-const fakeVerified = {
-  key: {
-    fromMe: false,
-    participant: "0@s.whatsapp.net",
-    remoteJid: "status@broadcast"
-  },
-  message: {
-    contactMessage: {
-      displayName: "📅 QUEEN DIANA TECH 📅",
-      vcard: `BEGIN:VCARD
-VERSION:3.0
-FN:QUEEN LORA BOT
-ORG:DIANA TECH VERIFIED;
-TITLE:Official WhatsApp Bot
-TEL;type=CELL;waid=18492823944:+18492823944
-END:VCARD`
-    }
-  }
-};
+      
 
 cmd({
     pattern: "date",
