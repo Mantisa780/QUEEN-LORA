@@ -7,7 +7,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://files.catbox.moe/0jz4o1.jpg" width="85%">
+  <img src="https://h.uguu.se/yCzKpdZb.jpg" width="85%">
 </p>
 
 ---
