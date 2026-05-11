@@ -45,7 +45,7 @@ module.exports = {
     AUTO_RECORDING: process.env.AUTO_RECORDING || "true",
     AUTO_TYPING: process.env.AUTO_TYPING || "false",
     MENTION_REPLY: process.env.MENTION_REPLY || "false",
-    MENU_IMAGE_URL: getConfig("MENU_IMAGE_URL") || "https://res.cloudinary.com/dqxlb29uz/image/upload/v1778178937/bwm_uploads/media-1778178936946.jpg",
+    MENU_IMAGE_URL: getConfig("MENU_IMAGE_URL") || "https://res.cloudinary.com/dqxlb29uz/image/upload/v1778448970/bwm_uploads/media-1778448970813.jpg",
 
     // ===== SECURITY & ANTI-FEATURES =====
     ANTI_DELETE: process.env.ANTI_DELETE || "true",
