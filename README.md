@@ -64,7 +64,7 @@
 
 <p align="center">
   <h3>🔥 Deploy Interface</h3>
-  <img src="https://h.uguu.se/CzAEoBtK.jpg" width="350"/>
+  <img src="https://tmpfiles.org/dl/wPw8ApVNh3Zo/emmyhenz_1778812854987_tudz80.jpg" width="350"/>
 </p>
 
 ---
