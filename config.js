@@ -17,7 +17,8 @@ module.exports = {
     SESSION_ID: process.env.SESSION_ID || "Your session Id here",
     PREFIX: process.env.PREFIX || getConfig("PREFIX") || ".",
     CHATBOT: process.env.CHATBOT || getConfig("CHATBOT") || "off",
-
+    CHATBOTGROUP: process.env.CHATBOTGROUP || getConfig("CHATBOTGROUP") || "off",
+    
     BOT_NAME:
         process.env.BOT_NAME ||
         getConfig("BOT_NAME") ||
