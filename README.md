@@ -97,7 +97,7 @@
 
 # ⚙️ CONFIGURATION
 
-env
+```env
 SESSION_ID=
 OWNER_NUMBER=
 BOT_NAME=QUEEN LORA
@@ -131,25 +131,25 @@ Setup Guide
 - ⚡ Fast Response
 - 🔥 Auto Features
 
----
+```
 
 📢 OFFICIAL CHANNEL
 
 <div align="center"><a href="https://whatsapp.com/channel/0029VajohKp5a2498c8Dbl2Y">
 <img src="https://img.shields.io/badge/📢_JOIN_CHANNEL-25D366?style=for-the-badge&logo=whatsapp">
-</a></div>---
+</a></div>
 
 🔄 UPDATE GROUP
 
 <div align="center"><a href="https://chat.whatsapp.com/FLLczzuNQX9FDR7TXSuh7f">
 <img src="https://img.shields.io/badge/🔄_UPDATE_GROUP-FFA500?style=for-the-badge&logo=whatsapp">
-</a></div>---
+</a></div>
 
 👑 DEVELOPER
 
 <div align="center"><a href="https://wa.me/18492823944?text=Hello+DIANA+TECH">
 <img src="https://img.shields.io/badge/👑_DIANA_TECH-FF1493?style=for-the-badge">
-</a></div>---
+</a></div>
 
 💖 THANKS FOR USING QUEEN LORA
 
