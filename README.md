@@ -97,7 +97,7 @@
 
 # ⚙️ CONFIGURATION
 
-```env
+env
 SESSION_ID=
 OWNER_NUMBER=
 BOT_NAME=QUEEN LORA
@@ -116,7 +116,6 @@ Setup Guide
 
 ✅ Enjoy Your Bot
 
----
 
 ✨ FEATURES
 
@@ -163,4 +162,3 @@ Made With ❤️ By Diana Tech
 </div><p align="center">
   <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="45">
 </p>
-```
